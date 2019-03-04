@@ -1,0 +1,1 @@
+Testowe repozytorium w celu nauki git bash
